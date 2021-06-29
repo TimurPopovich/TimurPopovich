@@ -7,3 +7,4 @@ I also have social networks:
 [Instagram](https://www.instagram.com/timur_popovich)  
 [VK](https://vk.com/timur1818)  
 [Telegram](https://t.me/Timur_Popovich)
+[LinkedIn](https://www.linkedin.com/in/timur-popovich-a14b9820b/)
