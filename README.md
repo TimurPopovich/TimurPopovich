@@ -21,7 +21,7 @@
 
 </div>
   
-  You can reach me via email: [timur-popovich@outlook.com](mailto:timur-popovich@outlook.com)
+  You can contact me by email: [timur-popovich@outlook.com](mailto:timur-popovich@outlook.com)
   
   <img src="https://komarev.com/ghpvc/?username=TimurPopovich&style=flat-square&color=blue" alt=""/>
   
