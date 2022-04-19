@@ -26,6 +26,8 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+---
+
 ### :man_technologist: About Me :
 
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
@@ -38,7 +40,9 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Timur_Popovich-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/timur-popovich-a14b9820b)
 
+---
 
+### :hammer_and_wrench: Languages and Tools :
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimurPopovich&show_icons=true&theme=synthwave&hide=issues)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimurPopovich&show_icons=true&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
