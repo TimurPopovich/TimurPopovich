@@ -23,7 +23,9 @@
   
   You can contact me by email: [timur-popovich@outlook.com](mailto:timur-popovich@outlook.com)
   
-  <img src="https://komarev.com/ghpvc/?username=TimurPopovich&style=flat-square&color=blue" alt=""/>
+  <a href="https://github.com/TimurPopovich">
+    <img src="https://komarev.com/ghpvc/?username=TimurPopovich&style=flat-square&color=blue" alt=""/>
+  </a>
   
   <h1>
   Hey There
