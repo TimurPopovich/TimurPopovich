@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/ВКонтакте-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
     
-   <a href="https://t.me/Timur_Popovich">
+  <a href="https://t.me/Timur_Popovich">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 
