@@ -2,21 +2,25 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
   <div id="badges">
+    
   <a href="https://www.linkedin.com/in/timur-popovich-a14b9820b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    
+  <a href="https://www.instagram.com/timur_popovich">
+    <img src="https://img.shields.io/badge/Instagram-e14473?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    
+  <a href="https://vk.com/timur_popovich">
+    <img src="https://img.shields.io/badge/ВКонтакте-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
+
 </div>
   
   <img src="https://komarev.com/ghpvc/?username=TimurPopovich&style=flat-square&color=blue" alt=""/>
   
   <h1>
-  hey there
+  Hey There
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   
@@ -59,12 +63,12 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### :fire: My Stats :
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimurPopovich&show_icons=true&theme=synthwave&hide=issues)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimurPopovich&show_icons=true&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TimurPopovich&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimurPopovich&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimurPopovich&show_icons=true&theme=vision-friendly-dark&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
 You can reach me via email: [timur-popovich@outlook.com](mailto:timur-popovich@outlook.com)  
 I also have social networks:  
-[Instagram](https://www.instagram.com/timur_popovich)  
-[VK](https://vk.com/timur1818)  
 [Telegram](https://t.me/Timur_Popovich)  
-[LinkedIn](https://www.linkedin.com/in/timur-popovich-a14b9820b)
- 
