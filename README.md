@@ -28,6 +28,8 @@
 
 ### :man_technologist: About Me :
 
+I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimurPopovich&show_icons=true&theme=synthwave&hide=issues)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimurPopovich&show_icons=true&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
