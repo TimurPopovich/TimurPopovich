@@ -26,6 +26,8 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+### :woman_technologist: About Me :
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimurPopovich&show_icons=true&theme=synthwave&hide=issues)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimurPopovich&show_icons=true&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
