@@ -14,6 +14,10 @@
   <a href="https://vk.com/timur_popovich">
     <img src="https://img.shields.io/badge/ВКонтакте-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
+    
+   <a href="https://t.me/Timur_Popovich">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
 
 </div>
   
@@ -71,4 +75,4 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 You can reach me via email: [timur-popovich@outlook.com](mailto:timur-popovich@outlook.com)  
 I also have social networks:  
-[Telegram](https://t.me/Timur_Popovich)  
+
