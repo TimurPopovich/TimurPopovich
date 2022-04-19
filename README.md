@@ -21,6 +21,8 @@
 
 </div>
   
+  You can reach me via email: [timur-popovich@outlook.com](mailto:timur-popovich@outlook.com)
+  
   <img src="https://komarev.com/ghpvc/?username=TimurPopovich&style=flat-square&color=blue" alt=""/>
   
   <h1>
@@ -72,7 +74,3 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimurPopovich&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimurPopovich&show_icons=true&theme=vision-friendly-dark&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
-
-You can reach me via email: [timur-popovich@outlook.com](mailto:timur-popovich@outlook.com)  
-I also have social networks:  
-
